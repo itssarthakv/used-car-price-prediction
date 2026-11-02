@@ -113,6 +113,7 @@ Model performance will be evaluated using:
 **Sarthak Vashisth**
 
 B.Tech Computer Science Engineering
+Graphic Era University Dehradun
 
 GitHub: [@itssarthakv](https://github.com/itssarthakv)
 
